@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @4KGalaxy
-- 👀 I’m interested in videogames
-- 🌱 I’m currently learning to develop videogames
-- 💞️ I’m looking to collaborate on free fire
-- 📫 How to reach me ... discord: 亗sᴀʀɪᴛᴀ亗ᴸ#8843
+- 👀 Freshman! Mathematics Engeneering
+- 🌱 I’m currently learning to develop Java
+- 💞️ I’m looking to always learn something new
+- 📫 How to reach me ... g.alaxy
 
 <!---
 4KGalaxy/4KGalaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
