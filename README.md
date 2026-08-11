@@ -2,7 +2,7 @@
 - 👀 Freshman! Mathematics Engeneering
 - 🌱 I’m currently learning to develop Java
 - 💞️ I’m looking to always learn something new
-- 📫 How to reach me vis Discord: g.alaxy
+- 📫 How to reach me via Discord: g.alaxy
 
 <!---
 4KGalaxy/4KGalaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
