@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @4KGalaxy
-- 👀 Freshman! Mathematics Engeneering
-- 🌱 I’m currently learning to develop Java
+- 👋 Hi, I’m Sara, well known as Galaxy
+- 👀 Freshman Mathematics Engeneering
+- 🌱 I know the basics in Java (C++ and Python are my next target
 - 💞️ I’m looking to always learn something new
-- 📫 How to reach me via Discord: g.alaxy
+- 📫 How to reach me? via Discord: g.alaxy
+
+Languages: Native Spanish & B2 English
 
 <!---
 4KGalaxy/4KGalaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
