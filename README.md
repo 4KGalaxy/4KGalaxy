@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Sara, well known as Galaxy
-- 👀 Freshman Mathematics Engeneering
-- 🌱 I know the basics in Java (C++ and Python are my next target)
+- 👋 Hi, I’m Sara Castaño Suárez, well known as Galaxy
+- 👀 Freshman Mathematics Engeneering (2nd Semester 2026-2)
+- 🌱 I know the basics in Java, currently learning C++ and Python is my next target.. Maybe Jupyter Notebook Fortran or Julia are next... who knows?
+- Wishlist of programming languages to learn: R, SQL LUA & Mojo)
 - 💞️ I’m looking to always learn something new
-- 📫 How to reach me? via Discord: g.alaxy
+- 📫 How to reach me? via Discord: g.alaxy (MDs currently open)
 
 Languages: Native Spanish & B2 English
 
